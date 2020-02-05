@@ -1,2 +1,3 @@
-# tarefas-escolares
-Um projeto em Flutter de aplicativo ToDo para organizar minhas tarefas escolares.
+# TAREFAS ESCOLARES
+
+Um simples projeto de ToDo List em Flutter para tarefas escolares.
